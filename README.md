@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/francisivanumpad25/Space%20Game-web-pipeline/_apis/build/status%2FIvanUmpad.mslearn-tailspin-spacegame-web%20(16)?branchName=main)](https://dev.azure.com/francisivanumpad25/Space%20Game-web-pipeline/_build/latest?definitionId=16&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
